@@ -1,5 +1,47 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
-header {
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    color: #133C55;
+    background-color: #C7B7A7;
+}
+
+h2 {
     font-family: "Open Sans", sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+    color: #133C55;
+}
+
+#logo {
+    float: left;
+    font-size: 220%;
+}
+
+#menu {
+    float: right;
+    font-size: 110%;
+    list-style: none;
+    letter-spacing: 2px;
+}
+
+#logo, #menu {
+    line-height: 75px;
+}
+
+#menu li {
+    float: left;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #133C55;
 }
