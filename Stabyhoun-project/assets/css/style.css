@@ -57,8 +57,8 @@ h2 {
     border-bottom: 1px solid #133C55;
 }
 
-/*--------------------------------------------------Index section*/
-.index {
+/*--------------------------------------------------Home section*/
+.home {
     height: 600px;
     width: 100%;
     background: url("../images/hero-image.jpg");
