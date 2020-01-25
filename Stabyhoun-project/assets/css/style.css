@@ -9,7 +9,10 @@ body {
 
 /*--------------------------------------------------Header*/
 header {
-    margin: 0;
+    background: #C7B7A7;
+    position: fixed;
+    right: 0px;
+    left: 0px;
 }
 
 h2 {
