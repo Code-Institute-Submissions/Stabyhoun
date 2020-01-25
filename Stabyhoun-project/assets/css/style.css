@@ -45,3 +45,11 @@ h2 {
     text-decoration: none;
     color: #133C55;
 }
+
+#menu a:hover {
+    border-bottom: 1px solid #133C55;
+}
+
+.active {
+    border-bottom: 1px solid #133C55;
+}
