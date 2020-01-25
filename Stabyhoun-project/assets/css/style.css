@@ -1,13 +1,15 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
-header {
-    margin: 0;
-}
-
+/*--------------------------------------------------Body*/
 body {
     font-family: "Roboto", sans-serif;
     color: #133C55;
     background-color: #C7B7A7;
+}
+
+/*--------------------------------------------------Header*/
+header {
+    margin: 0;
 }
 
 h2 {
@@ -55,6 +57,7 @@ h2 {
     border-bottom: 1px solid #133C55;
 }
 
+/*--------------------------------------------------Index section*/
 .index {
     height: 600px;
     width: 100%;
