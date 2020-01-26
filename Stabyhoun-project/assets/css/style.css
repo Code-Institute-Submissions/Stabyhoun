@@ -15,6 +15,7 @@ body {
     right: 0px;
     left: 0px;
     top: 0px;
+    padding-right: 0px;
 }
 
 .navbar-brand {
@@ -33,6 +34,8 @@ body {
     letter-spacing: 2px;
     text-decoration: none;
     color: #133C55;
+    padding: 0;
+    margin-right: 30px;
 }
 
 .navbar-nav a:hover {
