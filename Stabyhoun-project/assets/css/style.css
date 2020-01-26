@@ -13,6 +13,7 @@ header {
     position: fixed;
     right: 0px;
     left: 0px;
+    top: 0px;
 }
 
 h2 {
@@ -64,6 +65,7 @@ h2 {
 .home {
     height: 600px;
     width: 100%;
+    margin-top: 75px;
     background: url("../images/hero-image.jpg");
     background-position: center;
     background-repeat: no-repeat;
