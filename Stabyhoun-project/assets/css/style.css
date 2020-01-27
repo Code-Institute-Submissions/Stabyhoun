@@ -38,6 +38,10 @@ body {
     margin-right: 30px;
 }
 
+.navbar a:hover {
+    color: #133C55;
+}
+
 .navbar-nav a:hover {
     color: #E56399;
     border-bottom: 1px solid #E56399;
@@ -56,5 +60,4 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
 }
