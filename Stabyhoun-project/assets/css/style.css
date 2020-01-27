@@ -19,7 +19,8 @@ body {
     right: 0px;
     left: 0px;
     top: 0px;
-    padding-right: 0px;
+    padding: 0;
+    margin: 0;
 }
 
 .navbar-brand {
@@ -49,7 +50,6 @@ body {
     background-color: none;
     border: 1px solid #133C55;
     border-radius: 50px;
-    margin-bottom: 3px;
 }
 
 .navbar-toggler .line {
