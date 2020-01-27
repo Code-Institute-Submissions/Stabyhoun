@@ -23,7 +23,6 @@ body {
     text-transform: uppercase;
     letter-spacing: 2px;
     font-weight: 600;
-    color: #133C55;
     float: left;
     font-size: 220%;
     margin-left: 30px;
@@ -33,22 +32,8 @@ body {
     font-size: 110%;
     letter-spacing: 2px;
     text-decoration: none;
-    color: #133C55;
     padding: 0;
     margin-right: 30px;
-}
-
-.navbar-toggler {
-    z-index: 1;
-}
-
-.navbar a:hover {
-    color: #133C55;
-}
-
-.navbar-nav a:hover {
-    color: #E56399;
-    border-bottom: 1px solid #E56399;
 }
 
 .active {
