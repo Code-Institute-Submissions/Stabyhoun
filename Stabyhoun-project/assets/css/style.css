@@ -38,6 +38,10 @@ body {
     margin-right: 30px;
 }
 
+.navbar-toggler {
+    z-index: 1;
+}
+
 .navbar a:hover {
     color: #133C55;
 }
