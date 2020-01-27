@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
-#clrDarkBlue {
-    color: #133C55;
-}
-
 /*--------------------------------------------------Body*/
 body {
     font-family: "Roboto", sans-serif;
@@ -21,6 +17,11 @@ body {
     top: 0px;
     padding: 0;
     margin: 0;
+}
+
+header{
+    display: block;
+    clear: both;
 }
 
 .navbar-collapse {
@@ -67,23 +68,31 @@ body {
 }
 
 .navbar-brand:hover {
-    color: #000000;
+    color: #133C55;
 }
 
 .nav-link:hover {
-    color: #E56399;
-    border-bottom: 1px solid #E56399;
+    color: #133C55;
 }
 
-.active {
-    border-bottom: 1px solid #133C55;
+@media only screen and (min-width: 992px) {
+    .nav-link:hover {
+        color: #E56399;
+        border-bottom: 1px solid #E56399;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .active {
+        border-bottom: 1px solid #133C55;
+    }
 }
 
 /*--------------------------------------------------Home section*/
 .home {
     height: 600px;
     width: 100%;
-    margin-top: 75px;
+    /*margin-top: 75px;*/
     background: url("../images/hero-image.jpg");
     background-position: center;
     background-repeat: no-repeat;
