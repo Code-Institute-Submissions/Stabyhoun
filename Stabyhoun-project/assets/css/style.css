@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
+#clrDarkBlue {
+    color: #133C55;
+}
+
 /*--------------------------------------------------Body*/
 body {
     font-family: "Roboto", sans-serif;
@@ -21,6 +25,7 @@ body {
 .navbar-brand {
     font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
+    color: #000000;
     letter-spacing: 2px;
     font-weight: 600;
     float: left;
@@ -34,6 +39,20 @@ body {
     text-decoration: none;
     padding: 0;
     margin-right: 30px;
+    color: #133C55;
+}
+
+.navbar-toggler {
+    border: 1px solid #000000;
+}
+
+.navbar-brand:hover {
+    color: #000000;
+}
+
+.nav-link:hover {
+    color: #E56399;
+    border-bottom: 1px solid #E56399;
 }
 
 .active {
