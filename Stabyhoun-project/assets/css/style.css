@@ -23,10 +23,15 @@ body {
     margin: 0;
 }
 
+.navbar-collapse {
+    background: #C7B7A7;
+    text-align: right;
+}
+
 .navbar-brand {
     font-family: "Open Sans", sans-serif;
     text-transform: uppercase;
-    color: #000000;
+    color: #133C55;
     letter-spacing: 2px;
     font-weight: 600;
     float: left;
