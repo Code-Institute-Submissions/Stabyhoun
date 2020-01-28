@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
 /*--------------------------------------------------Html*/
-
+/*
 html {
 	scroll-behavior: smooth;
 }
-
+*/
 /*--------------------------------------------------Body*/
 body {
     font-family: "Roboto", sans-serif;
@@ -112,4 +112,16 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.jumbotron {
+    opacity: 0.6;
+    width: 400px;
+    float: right;
+    overflow: hidden;
+    text-align: center;
+    margin-right: 100px;
+    margin-left: auto;
+    margin-top: 235px;
+    margin-bottom: auto;
 }
