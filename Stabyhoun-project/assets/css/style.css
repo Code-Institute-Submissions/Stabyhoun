@@ -115,7 +115,7 @@ body {
 }
 
 .jumbotron {
-    opacity: 0.6;
+    opacity: 0.4;
     width: 400px;
     float: right;
     overflow: hidden;
@@ -124,4 +124,5 @@ body {
     margin-left: auto;
     margin-top: 235px;
     margin-bottom: auto;
+    color: #133C55;
 }
