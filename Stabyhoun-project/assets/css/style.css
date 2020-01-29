@@ -74,7 +74,6 @@ body {
     margin-right: 30px;
     width: 46px;
     height: 46px;
-    background-color: none;
     border: 1px solid #133C55;
     border-radius: 50px;
 }
@@ -127,7 +126,6 @@ body {
     padding-top: 176px;
     border-radius: 0;
     float: right;
-    overflow: hidden;
     text-align: center;
     color: #133C55;
 }
