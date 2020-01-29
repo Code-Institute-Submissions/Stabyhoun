@@ -1,11 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:100,200,300,400,500,600,700|Roboto:100,200,300,400,500,600,700');
 
-/*--------------------------------------------------Html*/
-/*
+/*--------------------------------------------------Html+scroll*/
+
 html {
 	scroll-behavior: smooth;
 }
-*/
+
+.anchor-home, .anchor-info, .anchor-links, .anchor-contact {
+    margin: -75px 0px 75px 0px;
+    position: absolute;
+}
+
 /*--------------------------------------------------Body*/
 body {
     font-family: "Roboto", sans-serif;
