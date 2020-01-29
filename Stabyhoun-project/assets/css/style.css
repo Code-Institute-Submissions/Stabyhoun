@@ -123,12 +123,11 @@ body {
 .jumbotron {
     opacity: 0.4;
     width: 400px;
+    height: 600px;
+    padding-top: 176px;
+    border-radius: 0;
     float: right;
     overflow: hidden;
     text-align: center;
-    margin-right: 100px;
-    margin-left: auto;
-    margin-top: 235px;
-    margin-bottom: auto;
     color: #133C55;
 }
