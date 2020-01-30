@@ -61,6 +61,16 @@ body {
     position: fixed;
 }
 
+.fa-paw {
+    visibility: hidden;
+}
+
+@media only screen and (min-width: 600px) {
+    .fa-paw {
+        visibility: visible;
+    }
+}
+
 .nav-link {
     font-size: 110%;
     letter-spacing: 2px;
