@@ -7,7 +7,7 @@ html {
 }
 
 .anchor-home, .anchor-info, .anchor-links, .anchor-contact {
-    margin: -76px 0px 76px 0px;
+    margin: -75px 0px 75px 0px;
     position: absolute;
 }
 
@@ -15,7 +15,6 @@ html {
 body {
     font-family: "Roboto", sans-serif;
     color: #133C55;
-    background-color: #C7B7A7;
 }
 
 /*--------------------------------------------------Header*/
@@ -125,7 +124,7 @@ body {
 .home {
     height: 600px;
     width: 100%;
-    margin-top: 76px;
+    margin-top: 75px;
     background: url("../images/hero-image.jpg");
     background-position: center;
     background-repeat: no-repeat;
