@@ -146,12 +146,23 @@ body {
 /*--------------------------------------------------Info section*/
 
 .info {
+    height: 600px;
     background-color: #9CC4B2;
 }
 
 /*--------------------------------------------------Links section*/
 
+.links {
+    height: 600px;
+    background-color: #B6DCFE;
+}
+
 /*--------------------------------------------------Contact section*/
+
+.contact {
+    height: 600px;
+    background-color: #D36582;
+}
 
 /*--------------------------------------------------Footer*/
 
