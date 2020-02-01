@@ -162,6 +162,11 @@ body {
 .contact {
     height: 600px;
     background-color: #D36582;
+    text-align: center;
+}
+
+.contact-heading {
+    text-transform: uppercase;
 }
 
 /*--------------------------------------------------Footer*/
