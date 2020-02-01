@@ -160,6 +160,7 @@ body {
 /*--------------------------------------------------Contact section*/
 
 .contact {
+    min-height: 540px;
     background-color: #D36582;
     text-align: center;
 }
