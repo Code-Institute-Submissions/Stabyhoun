@@ -167,6 +167,10 @@ body {
 
 .contact-heading {
     text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 20px;
 }
 
 .btn {
