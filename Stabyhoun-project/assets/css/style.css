@@ -169,6 +169,11 @@ body {
     text-transform: uppercase;
 }
 
+.btn {
+    background-color: #133C55;
+    color: #D36582;
+}
+
 /*--------------------------------------------------Footer*/
 
 .pt-4 {
