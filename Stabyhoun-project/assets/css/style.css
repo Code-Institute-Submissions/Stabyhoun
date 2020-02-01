@@ -160,9 +160,15 @@ body {
 /*--------------------------------------------------Contact section*/
 
 .contact {
-    min-height: 600px;
     background-color: #D36582;
     text-align: center;
+}
+
+.background-contact {
+    background: rgba(255, 255, 255, 0.5);
+    margin: 20px;
+    padding: 100px 0px;
+    border-radius: 50px;
 }
 
 .contact-heading {
@@ -192,7 +198,7 @@ body {
 
 .btn {
     background-color: #133C55;
-    color: #D36582;
+    color: #C7B7A7;
     margin-top: 10px;
     margin-bottom: 20px;
 }
