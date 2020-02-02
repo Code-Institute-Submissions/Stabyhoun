@@ -17,6 +17,13 @@ body {
     color: #133C55;
 }
 
+.background-body {
+    background: rgba(255, 255, 255, 0.4);
+    margin: 20px;
+    padding: 100px 0px;
+    border-radius: 50px;
+}
+
 /*--------------------------------------------------Header*/
 .navbar {
     height: 75px;
@@ -153,7 +160,6 @@ body {
 /*--------------------------------------------------Links section*/
 
 .links {
-    height: 600px;
     background-color: #B6DCFE;
 }
 
@@ -162,13 +168,6 @@ body {
 .contact {
     background-color: #D36582;
     text-align: center;
-}
-
-.background-contact {
-    background: rgba(255, 255, 255, 0.4);
-    margin: 20px;
-    padding: 100px 0px;
-    border-radius: 50px;
 }
 
 .contact-heading {
