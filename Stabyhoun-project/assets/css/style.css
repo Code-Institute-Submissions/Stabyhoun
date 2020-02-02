@@ -29,7 +29,7 @@ h3 {
     background: rgba(255, 255, 255, 0.4);
     margin: 20px;
     padding: 100px 0px;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 
 /*--------------------------------------------------Header*/
@@ -105,7 +105,7 @@ h3 {
     border-radius: 50px;
 }
 
-.navbar-toggler .line {
+.line {
     width: 100%;
     float: left;
     height: 2px;
