@@ -17,6 +17,14 @@ body {
     color: #133C55;
 }
 
+h3 {
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 500;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+
 .background-body {
     background: rgba(255, 255, 255, 0.4);
     margin: 20px;
@@ -168,14 +176,6 @@ body {
 .contact {
     background-color: #D36582;
     text-align: center;
-}
-
-.contact-heading {
-    text-transform: uppercase;
-    font-family: "Open Sans", sans-serif;
-    font-weight: 500;
-    margin-top: 25px;
-    margin-bottom: 20px;
 }
 
 .center-form {
