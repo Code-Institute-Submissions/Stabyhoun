@@ -21,8 +21,11 @@ h3 {
     text-transform: uppercase;
     font-family: "Open Sans", sans-serif;
     font-weight: 500;
-    margin-top: 25px;
     margin-bottom: 20px;
+}
+
+h5 {
+    margin-bottom: 30px;
 }
 
 .background-body {
@@ -173,6 +176,7 @@ h3 {
 
 .fa-facebook-square {
     color: #133C55;
+    font-size: 160%;
 }
 
 .fa-facebook-square:hover {
@@ -187,7 +191,6 @@ h3 {
 }
 
 .center-form {
-    padding-top: 10px;
     margin: 0 auto;
     max-width: 80%;
 }
@@ -199,15 +202,18 @@ h3 {
 }
 
 .form-control {
-    margin-top: 8px;
-    margin-bottom: 8px;
+    margin-bottom: 15px;
 }
 
 .btn {
     background-color: #133C55;
-    color: #C7B7A7;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    color: #ffffff;
+    margin-top: 5px;
+}
+
+.btn:hover {
+    background-color: #B6DCFE;
+    color: #133C55;
 }
 
 /*--------------------------------------------------Footer*/
