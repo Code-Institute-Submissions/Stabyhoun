@@ -9,9 +9,10 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Stabyhoun</title>
 </head>
+<!-- <body data-spy="scroll" data-target="#navbar" data-offset="0"> -->
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg" id="navbar">
             <a href="index.html" class="navbar-brand">
                 Stabyhoun <i class="fas fa-paw"></i>
             </a>
@@ -37,6 +38,7 @@
         <a id="anchor-home"></a>
     </div>
 
+    <!-- <section class="home" id="home"> -->
     <section class="home">
         <div class="jumbotron">
             <h1 class="display-4">The<br>Stabyhoun</h1>
@@ -49,6 +51,7 @@
         <a id="anchor-info"></a>
     </div>
 
+    <!-- <section class="info container-fluid" id="info"> -->
     <section class="info container-fluid">
         <div class="row">
             <div class="col background-body">
@@ -60,6 +63,7 @@
         <a id="anchor-links"></a>
     </div>
 
+    <!-- <section class="links container-fluid" id="links"> -->
     <section class="links container-fluid">
         <div class="row">
             <div class="col background-body">
@@ -103,13 +107,14 @@
         <a id="anchor-contact"></a>
     </div>
 
+    <!-- <section class="contact container-fluid" id="contact"> -->
     <section class="contact container-fluid">
         <div class="row">
             <div class="col background-body">
                 <h2>Do you have any questions?</h2>
                 <h4>Feel free to use this contact form!</h4>
                 <div class="center-form">
-                    <form>
+                    <form action="#" onsubmit="return alert('Thank you for your message!')">
                         <input type="text" name="name" id="fullname" class="form-control" placeholder="Name" required />
                         <input type="email" name="email" id="emailaddress" class="form-control" placeholder="Email" required />
                         <textarea rows="5" name="question" id="question" class="form-control" placeholder="Your question" required></textarea>
