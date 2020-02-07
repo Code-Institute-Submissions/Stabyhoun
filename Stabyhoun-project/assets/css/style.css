@@ -184,7 +184,7 @@ h6 {
 }
 
 .website-link:hover {
-    color: #9CC4B2;
+    color: #B6DCFE;
 }
 
 .fa-facebook-square {
@@ -193,7 +193,7 @@ h6 {
 }
 
 .fa-facebook-square:hover {
-    color: #9CC4B2;
+    color: #B6DCFE;
 }
 
 /*--------------------------------------------------Contact section*/
@@ -225,8 +225,8 @@ h6 {
 }
 
 .btn:hover {
-    background-color: #B6DCFE;
-    color: #133C55;
+    background-color: #D36582;
+    color: #ffffff;
 }
 
 /*--------------------------------------------------Footer*/
