@@ -36,7 +36,7 @@ h6 {
     background: rgba(255, 255, 255, 0.75);
     margin: 20px;
     padding: 100px 0px;
-    border-radius: 30px;
+    border-radius: 20px;
 }
 
 /*--------------------------------------------------Header*/
@@ -98,7 +98,7 @@ h6 {
     font-size: 110%;
     letter-spacing: 2px;
     text-decoration: none;
-    padding: 0;
+    padding: 0 !important;
     margin-right: 30px;
     color: #133C55;
 }
