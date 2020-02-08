@@ -130,7 +130,22 @@ h6 {
 }
 
 @media only screen and (min-width: 992px) {
-    .nav-link:hover {
+    #home-link:hover {
+        color: #133C55;
+        border-bottom: 1px solid #133C55;
+    }
+    
+    #info-link:hover {
+        color: #9CC4B2;
+        border-bottom: 1px solid #9CC4B2;
+    }
+    
+    #links-link:hover {
+        color: #B6DCFE;
+        border-bottom: 1px solid #B6DCFE;
+    }
+    
+    #contact-link:hover {
         color: #E56399;
         border-bottom: 1px solid #E56399;
     }
