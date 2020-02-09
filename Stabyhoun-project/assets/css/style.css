@@ -6,10 +6,11 @@ html {
 	scroll-behavior: smooth;
 }
 
-/* .anchor-home, .anchor-info, .anchor-links, .anchor-contact {
-    margin: -75px 0px 75px 0px;
-    position: absolute;
-} */
+.home, .info, .links, .contact {
+    border-top: 75px solid transparent;
+    margin: -75px 0 0;
+    background-clip: padding-box;
+}
 
 /*--------------------------------------------------Body*/
 body {
@@ -164,9 +165,8 @@ h6 {
 
 /*--------------------------------------------------Home section*/
 .home {
-    height: 600px;
+    height: 700px;
     width: 100%;
-    margin-top: 75px;
     background: url("../images/hero-image.jpg");
     background-size: cover;
     background-position: left;
@@ -181,7 +181,7 @@ h6 {
     text-align: center;
     opacity: 0.7;
     padding: 0;
-    margin-top: 420px;
+    margin-top: 445px;
     margin-bottom: 20px;
     margin-left: 3%;
     margin-right: 3%;
@@ -207,12 +207,13 @@ h6 {
 @media only screen and (min-width: 600px) {
     .home {
         background-position: center;
+        background-position-y: 25px;
     }
 
     .jumbotron {
         opacity: 0.5;
         width: 375px;
-        height: 600px;
+        height: 625px;
         padding-top: 175px;
         margin: 0;
         border-radius: 0;
