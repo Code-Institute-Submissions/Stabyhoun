@@ -163,9 +163,17 @@ h6 {
     }
 }
 
+.block-under-header {
+    height: 75px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background: #C7B7A7;
+}
+
 /*--------------------------------------------------Home section*/
 .home {
-    height: 700px;
+    height: 675px;
     width: 100%;
     background: url("../images/hero-image.jpg");
     background-size: cover;
@@ -181,7 +189,7 @@ h6 {
     text-align: center;
     opacity: 0.7;
     padding: 0;
-    margin-top: 445px;
+    margin-top: 420px;
     margin-bottom: 20px;
     margin-left: 3%;
     margin-right: 3%;
@@ -207,13 +215,12 @@ h6 {
 @media only screen and (min-width: 600px) {
     .home {
         background-position: center;
-        background-position-y: 25px;
     }
 
     .jumbotron {
         opacity: 0.5;
         width: 375px;
-        height: 625px;
+        height: 600px;
         padding-top: 175px;
         margin: 0;
         border-radius: 0;
