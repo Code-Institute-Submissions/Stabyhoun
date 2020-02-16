@@ -244,9 +244,16 @@ h6 {
 }
 
 #origin-pic, #name-pic, #sports-pic, #water-pic {
-    width: 70%;
+    width: 80%;
     padding-bottom: 16px;
-    margin: 0 auto;
+}
+
+@media only screen and (min-width: 768px) {
+    #origin-pic, #name-pic, #sports-pic, #water-pic {
+        padding-bottom: 0px;
+        margin-top: auto;
+        margin-bottom: auto;
+    }
 }
 
 /*--------------------------------------------------Links section*/
