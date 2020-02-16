@@ -243,6 +243,12 @@ h6 {
     background-color: #9CC4B2;
 }
 
+#origin-pic, #name-pic, #sports-pic, #water-pic {
+    width: 70%;
+    padding-bottom: 16px;
+    margin: 0 auto;
+}
+
 /*--------------------------------------------------Links section*/
 
 .links {
