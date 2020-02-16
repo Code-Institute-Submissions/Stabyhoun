@@ -6,6 +6,7 @@ html {
 	scroll-behavior: smooth;
 }
 
+/* Used the reaction from Kris Braun on the following link to get the menu to scroll to the right place on the page when clicking on a link: https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header/11842865#11842865 */
 .home, .info, .links, .contact {
     border-top: 75px solid transparent;
     margin: -75px 0 0;
@@ -116,6 +117,7 @@ h6 {
     border-radius: 50px;
 }
 
+/* Got the reaction from Ghafor Sabury on the following link to create my own hamburger icon: https://stackoverflow.com/questions/42586729/bootstrap-4-change-hamburger-toggler-color */
 .line {
     width: 100%;
     float: left;
