@@ -51,3 +51,73 @@ I have used the following technologys for this project:
 * [Font Awesome](https://fontawesome.com/), to include icons
 * [Google Fonts](https://fonts.google.com/), to choose and combine my fonts
 * [Coolors](https://coolors.co/), to choose my and combine my colors
+
+## Manual testing
+All the tests below where done manually.
+The tests where done in Chrome, Internet Explorer and Firefox.
+<br>
+1. Use of the logo in the topleft corner:
+    * Mobile
+        1. The logo will have no paw icon behind the name so that there's space for the hamburger icon
+        2. When you find yourself on any part of the page, you can click on the logo to return to the home section
+    * Tablet and desktop
+        1. The logo will have a paw icon behind the name to give it a nicer look
+        2. When you find yoursel on any part of the page, you can click on the logo to return to the home section 
+2. Use of the navigation menu:
+    * Mobile and tablet:
+        1. Go to the header on the top of the page
+        2. Click on the hamburger icon
+        3. You will see a dropdown menu
+        4. Click on a link in the dropdown menu
+        5. The menu closes and the page will slowely scroll to the right section
+    * Desktop:
+        1. Go to the header on the top of the page
+        2. You will see a line under the link that belongs to the section you're currently at
+        3. When you hover over one of the links it will change to the color of that section
+        4. Click on one of the links
+        5. The page will slowely scroll to the right section
+        6. When you scroll to a different section then the one you where on, the line under the link will move to the link that you are now on
+3. When you want to find basic info about the Stabyhoun:
+    * Mobile:
+        1. At the home section you will find a hero-image that gives you an instant idea of the appearance of this breed
+        2. The jumbotron is positioned underneath the head of the dog, to give a good view
+        3. You can now click on "Info" in the navigation menu
+        4. The page will slowely scroll to the info-section
+        5. Here the user can find more pictures to get an even beter idea of the appearance of the breed
+        6. Here the user can also find information about the characteristics of the Stabyhoun
+    * Tablet:
+        1. At the home section you will find a hero-image that gives you an instant idea of the appearance of this breed
+        2. The jumbotron is positioned next to the head of the dog, to give a good view
+        3. You can now click on "Info" in the navigation menu
+        4. The page will slowely scroll to the info-section
+        5. Here the user can find more pictures to get an even beter idea of the appearance of the breed
+        6. Here the user can also find information about the characteristics of the Stabyhoun
+        7. To give it a nice look, you will find the pictures and info presented side by side
+    * Desktop:
+        1. At the home section you will find a hero-image that gives you an instant idea of the appearance of this breed
+        2. The jumbotron is positioned next to the head of the dog, to give a good view
+        3. You can now click on "Info" in the navigation menu
+        4. The page will slowely scroll to the info-section
+        5. Here the user can find more pictures to get an even beter idea of the appearance of the breed
+        6. Here the user can also find information about the characteristics of the Stabyhoun
+        7. To give it a nice look, you will find the pictures and info presented side by side in sets of two
+4. When you want to do so more research on the breed
+    * Mobile, tablet and desktop:
+        1. You can click on "Links" in the navigation menu
+        2. The page will slowely scroll to the links-section
+        3. Here the user can find more links to go to the website or Facebook page of one of the two dutch associations of the breed, or the association for the preservation of dutch breeds
+        4. When you hover over one of the links or a Facebook logo it will turn to the color of that section
+        5. When you click on one of the links or a Facebook logo a new page will open for that website or Facebook page
+5. When you want to get in touch with the owner of the website:
+    * Mobile, tablet and desktop:
+        1. You can click on "Contact" in the navigation menu
+        2. The page will slowely scroll to the contact-section
+        3. Here the user can fill in the contact-form
+        4. When all the fields are filled in correctly, the user gets a pop-up with a thank you message
+        5. When not all the fields are filled in correctly, the user gets a message that points out what needs to be filled
+###Bugs
+The following bugs where found during testing:
+<br>
+1. When you find yourself in a different browser then Chrome, the slow scrolling will not work
+2. When on a mobile of small size (for instance an older model phone), the logo overlapps the hamburger icon
+3. When on a mobile of small size (for instande an older model phone) or on a screen of a bigger size, the hero-image isn't positioned as nice as it could be
