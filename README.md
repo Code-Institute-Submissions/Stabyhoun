@@ -115,7 +115,7 @@ The tests where done in Chrome, Internet Explorer and Firefox.
         3. Here the user can fill in the contact-form
         4. When all the fields are filled in correctly, the user gets a pop-up with a thank you message
         5. When not all the fields are filled in correctly, the user gets a message that points out what needs to be filled
-###Bugs
+### Bugs
 The following bugs where found during testing:
 <br>
 1. When you find yourself in a different browser then Chrome, the slow scrolling will not work
