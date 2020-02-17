@@ -1,3 +1,4 @@
+![My website on different devices](https://ibb.co/pxJCh0N)
 # Stabyhoun
 This website was created for all the people that are thinking about getting a dog, but don't know which breed they are going to get.
 These people can get a first impression about the stabyhoun through the pictures and given information.
