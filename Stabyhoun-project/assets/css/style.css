@@ -178,7 +178,7 @@ h6 {
     background: url("../images/hero-image.jpg");
     background-size: cover;
     background-position: left;
-    background-position-x: -130px;
+    background-position-x: -135px;
     background-repeat: no-repeat;
 }
 
@@ -215,13 +215,14 @@ h6 {
 @media only screen and (min-width: 600px) {
     .home {
         background-position: center;
+        height: 750px;
     }
 
     .jumbotron {
         opacity: 0.5;
         width: 375px;
-        height: 600px;
-        padding-top: 175px;
+        height: 675px;
+        padding-top: 225px;
         margin: 0;
         border-radius: 0;
     }
