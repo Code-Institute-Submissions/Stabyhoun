@@ -1,4 +1,4 @@
-![My website on different devices](https://ibb.co/pxJCh0N)
+<a href="https://ibb.co/pxJCh0N"><img src="https://i.ibb.co/bPzpbWY/verschillende-devices.png" alt="verschillende-devices" border="0"></a>
 # Stabyhoun
 This website was created for all the people that are thinking about getting a dog, but don't know which breed they are going to get.
 These people can get a first impression about the stabyhoun through the pictures and given information.
