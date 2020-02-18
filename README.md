@@ -121,3 +121,28 @@ The following bugs where found during testing:
 1. When you find yourself in a different browser then Chrome, the slow scrolling will not work
 2. When on a mobile of small size (for instance an older model phone), the logo overlapps the hamburger icon
 3. When on a mobile of small size (for instande an older model phone) or on a screen of a bigger size, the hero-image isn't positioned as nice as it could be
+
+## Deployment
+This project was created using Github. 
+From there I used Gitpod.io to write my code.
+Then I used commits to git followed by pushes to my GitHub repository.
+
+As my final step I've deployed this project to GitHub Pages from the GitHub repository using the following steps:
+
+1. Login to my GitHub account
+2. Go to the Stabyhoun repository
+3. Go to the settings-tab
+4. Scroll down to the GitHub Pages section
+5. At the GitHub Pages section, choose "master branch" as your source
+6. The page will now automatically refresh and the repository deployed
+7. You can now scroll down again to the GitHub Pages section to retrieve the link for the website
+
+To run this project locally the following steps should be followed:
+
+1. You can follow [this link](https://github.com/FrancesVugts/Stabyhoun) to the Stabyhoun repository
+2. Click on the green colored button "Clone or download"
+3. Copy the URL that pops up
+4. In your local IDE open Git Bash
+5. The next step is to change your current working directory to the location you want for your cloned directory
+6. Now type in "git clone" and paste the copied URL
+7. When you press Enter your local clone will be created
