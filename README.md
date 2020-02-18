@@ -1,6 +1,6 @@
 <a href="https://ibb.co/pxJCh0N"><img src="https://i.ibb.co/bPzpbWY/verschillende-devices.png" alt="verschillende-devices" border="0"></a>
 # Stabyhoun
-This website was created for all the people that are thinking about getting a dog, but don't know which breed they are going to get.
+[This website](https://francesvugts.github.io/Stabyhoun/) was created for all the people that are thinking about getting a dog, but don't know which breed they are going to get.
 These people can get a first impression about the stabyhoun through the pictures and given information.
 By getting people enthousiastic for the breed, it can help to maintain the breed. 
 The Stabyhoun is a breed from Dutch origin and at the moment there are around 2000 bitches, so it's importent to invest in maintaining this breed.
@@ -146,3 +146,18 @@ To run this project locally the following steps should be followed:
 5. The next step is to change your current working directory to the location you want for your cloned directory
 6. Now type in "git clone" and paste the copied URL
 7. When you press Enter your local clone will be created
+
+## Credits
+
+### Content
+- All the content for this page was written by myself
+
+### Media
+- Most of the pictures I've used for this website where made by myself
+- The hero image I've used was made by Charlotte Olsthoorn
+- The photo I've used in the info-section for "sports" was made by Jeanne van Beers
+
+### Acknowledgements
+- My friend Geert gave me advice on choosing a subject for my first Milestone
+- My mentor Guido Cecilio helped me with some harder coding parts
+- My friend Geert was also allways ready to give me some tips for my website and for writting my readme file
