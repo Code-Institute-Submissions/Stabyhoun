@@ -119,7 +119,7 @@ The tests where done in Chrome, Internet Explorer and Firefox.
 The following bugs where found during testing:
 <br>
 1. When you find yourself in a different browser then Chrome, the slow scrolling will not work
-2. When on a mobile of small size (for instance an older model phone), the logo overlapps the hamburger icon
+2. When on a mobile of small size (for instance an older model phone), the logo overlapps the hamburger icon (fixed)
 3. When on a mobile of small size (for instande an older model phone) or on a screen of a bigger size, the hero-image isn't positioned as nice as it could be
 
 ## Deployment
